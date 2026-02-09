@@ -16,15 +16,6 @@ Profit by sub-category
 
 Payment mode breakdown (COD, UPI, Cards, EMI)
 
-🛠 Tools Used
-
-Power BI
-
-Power Query
-
-Basic DAX calculations
-
-Data cleaning and transformation
 
 💡 Why I Built This
 
@@ -40,12 +31,4 @@ Who are the top customers?
 
 What payment methods are most preferred?
 
-📈 Key Highlights
 
-Tracked overall sales of 438K and profit of 37K
-
-Identified profit dips across specific months
-
-Highlighted top revenue-generating states and sub-categories
-
-Built dynamic filters for quarter-wise and category-wise analysis
